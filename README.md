@@ -8,6 +8,17 @@ This repository contains a listing of some, but not all, REUs aimed at mathemati
 For a more extensive listing of math REUs, visit this [website](https://sites.google.com/view/mathreu/) maintained by Iowa State University Professor Steve Butler and the [NSF ETAP](https://etap.nsf.gov/) website by the National Science Foundation.
 
 ## Programs with Stipend
+| __Program__ | __School__ | __Location__ |
+| :---: | :---: | :---: |
+| [DSI Summer Lab](https://datascience.uchicago.edu/education/summerlab/) | University of Chicago | Chicago, IL |
+| [OSUIM](https://math.osu.edu/research/undergraduate) | Ohio State Unveristy | Columbus, OH |
+| [NYC Discrete Math REU](https://geometrynyc.wixsite.com/home/combinatorics-reu) | Baruch College | New York, NY |
+| [SUAMI](https://www.cmu.edu/math/undergrad/suami/index.html) | Carnegie Mellon University | Pittsburgh, PA |
+| [Summer @ ICERM](https://icerm.brown.edu/summerug) | Brown Univeristy | Providence, RI |
+| [REU @ GA Tech](https://math.gatech.edu/undergraduate-research) | Georgia Institute of Technology | Atlanta, GA |
+| [SMALL](https://math.williams.edu/small/) | Williams College | Williamstown, MA |
+| [UMN Combinatorics and Algebra REU](https://www-users.cse.umn.edu/~reiner/REU/REU.html) | University of Minnesota | Minneapolis, MN |
+| [Fletcher Research Internship](https://reu.byu.edu/home#reu-ret-fri-programs) | Brigham Young Univeristy | Provo, UT |
 
 ## Unpaid Programs
 
