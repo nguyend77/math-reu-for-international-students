@@ -8,8 +8,11 @@ This repository contains a listing of some, but not all, REUs aimed at mathemati
 For a more extensive listing of math REUs, visit this [website](https://sites.google.com/view/mathreu/) maintained by Iowa State University Professor Steve Butler and the [NSF ETAP](https://etap.nsf.gov/) website by the National Science Foundation.
 
 ## Programs with Stipend
-| __Program__ | __School__ | __Location__ |
+| __Program__ | __Institution__ | __Location__ |
 | :---: | :---: | :---: |
+| [RIPS](https://www.ipam.ucla.edu/programs/student-research-programs/) | University of California, Los Angeles | Los Angeles, CA |
+| [Summer Geometry Initiative](https://sgi.mit.edu/) | Massachusetts Institute of Technology | Cambridge, MA |
+| [MSRP](https://oge.mit.edu/msrp/) | Massachusetts Institute of Technology | Cambridge, MA |
 | [DSI Summer Lab](https://datascience.uchicago.edu/education/summerlab/) | University of Chicago | Chicago, IL |
 | [OSUIM](https://math.osu.edu/research/undergraduate) | Ohio State Unveristy | Columbus, OH |
 | [NYC Discrete Math REU](https://geometrynyc.wixsite.com/home/combinatorics-reu) | Baruch College | New York, NY |
@@ -21,5 +24,17 @@ For a more extensive listing of math REUs, visit this [website](https://sites.go
 | [Fletcher Research Internship](https://reu.byu.edu/home#reu-ret-fri-programs) | Brigham Young Univeristy | Provo, UT |
 
 ## Unpaid Programs
-
+| __Program__ | __Institution__ | __Location__ |
+| :---: | :---: | :---: |
+| [UChicago Math REU](https://math.uchicago.edu/~may/) | University of Chicago | Chicago, IL |
+| [Polymath Jr.](https://geometrynyc.wixsite.com/polymathreu) | N/A | Online |
 ## Programs Abroad
+| __Program__ | __Institution__ | __Location__ |
+| :---: | :---: | :---: |
+| [FUSRP](https://www.fields.utoronto.ca/generalinfo/Fields-Undergraduate-Summer-Research-Program) | Fields Institute | Canada |
+| [IRIS @ NUS](https://cde.nus.edu.sg/graduate/iris-nus/) | National University of Singapore | Singapore |
+| [TEEP](https://teep.studyintaiwan.org/) | Varies | Taiwan |
+| [AScI](https://www.aalto.fi/en/aalto-science-institute-asci/aalto-science-institute-international-summer-research-programme) | Aalto University | Finland |
+
+---
+*Maintained by [Dung Nguyen](https://nguyend77.github.io/). Any feedbacks/suggestions are welcome.*
