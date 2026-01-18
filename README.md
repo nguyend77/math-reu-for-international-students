@@ -13,7 +13,6 @@ For a more extensive listing of math REUs, visit this [website](https://sites.go
 | [RIPS](https://www.ipam.ucla.edu/programs/student-research-programs/) | University of California, Los Angeles | Los Angeles, CA |
 | [Summer Geometry Initiative](https://sgi.mit.edu/) | Massachusetts Institute of Technology | Cambridge, MA |
 | [MSRP](https://oge.mit.edu/msrp/) | Massachusetts Institute of Technology | Cambridge, MA |
-| [DSI Summer Lab](https://datascience.uchicago.edu/education/summerlab/) | University of Chicago | Chicago, IL |
 | [OSUIM](https://math.osu.edu/research/undergraduate) | Ohio State Unveristy | Columbus, OH |
 | [NYC Discrete Math REU](https://geometrynyc.wixsite.com/home/combinatorics-reu) | Baruch College | New York, NY |
 | [SUAMI](https://www.cmu.edu/math/undergrad/suami/index.html) | Carnegie Mellon University | Pittsburgh, PA |
@@ -21,7 +20,9 @@ For a more extensive listing of math REUs, visit this [website](https://sites.go
 | [REU @ GA Tech](https://math.gatech.edu/undergraduate-research) | Georgia Institute of Technology | Atlanta, GA |
 | [SMALL](https://math.williams.edu/small/) | Williams College | Williamstown, MA |
 | [UMN Combinatorics and Algebra REU](https://www-users.cse.umn.edu/~reiner/REU/REU.html) | University of Minnesota | Minneapolis, MN |
+| [DSI Summer Lab](https://datascience.uchicago.edu/education/summerlab/) | University of Chicago | Chicago, IL |
 | [Fletcher Research Internship](https://reu.byu.edu/home#reu-ret-fri-programs) | Brigham Young Univeristy | Provo, UT |
+| [Caltech LIGO SURF](https://labcit.ligo.caltech.edu/LIGO_web/students/SURF/) | California Institute of Technology | Pasadena, CA |
 
 ## Unpaid Programs
 | __Program__ | __Institution__ | __Location__ |
