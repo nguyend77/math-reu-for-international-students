@@ -35,6 +35,7 @@ For a more extensive listing of math REUs, visit this [website](https://sites.go
 | [FUSRP](https://www.fields.utoronto.ca/generalinfo/Fields-Undergraduate-Summer-Research-Program) | Fields Institute | Canada |
 | [IRIS @ NUS](https://cde.nus.edu.sg/graduate/iris-nus/) | National University of Singapore | Singapore |
 | [TEEP](https://teep.studyintaiwan.org/) | Varies | Taiwan |
+| [Summer @ KAI-X](https://kai-x.kaist.ac.kr/pages/sub/menu_02_02) | Korea Advanced Institute of Science & Technology | Korea |
 | [AScI](https://www.aalto.fi/en/aalto-science-institute-asci/aalto-science-institute-international-summer-research-programme) | Aalto University | Finland |
 
 ---
