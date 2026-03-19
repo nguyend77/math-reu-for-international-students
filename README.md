@@ -13,7 +13,6 @@ For a more extensive listing of math REUs, visit this [website](https://sites.go
 | [RIPS](https://www.ipam.ucla.edu/programs/student-research-programs/) | University of California, Los Angeles | Los Angeles, CA |
 | [Summer Geometry Initiative](https://sgi.mit.edu/) | Massachusetts Institute of Technology | Cambridge, MA |
 | [MSRP](https://oge.mit.edu/msrp/) | Massachusetts Institute of Technology | Cambridge, MA |
-| [OSUIM](https://math.osu.edu/research/undergraduate) | Ohio State Unveristy | Columbus, OH |
 | [NYC Discrete Math REU](https://geometrynyc.wixsite.com/home/combinatorics-reu) | Baruch College | New York, NY |
 | [SUAMI](https://www.cmu.edu/math/undergrad/suami/index.html) | Carnegie Mellon University | Pittsburgh, PA |
 | [Summer @ ICERM](https://icerm.brown.edu/summerug) | Brown Univeristy | Providence, RI |
@@ -33,6 +32,7 @@ For a more extensive listing of math REUs, visit this [website](https://sites.go
 | __Program__ | __Institution__ | __Location__ |
 | :---: | :---: | :---: |
 | [FUSRP](https://www.fields.utoronto.ca/generalinfo/Fields-Undergraduate-Summer-Research-Program) | Fields Institute | Canada |
+| [HKU CDS](https://www.cs.hku.hk/rintern/) | University of Hong Kong | Hong Kong |
 | [IRIS @ NUS](https://cde.nus.edu.sg/graduate/iris-nus/) | National University of Singapore | Singapore |
 | [TEEP](https://teep.studyintaiwan.org/) | Varies | Taiwan |
 | [AScI](https://www.aalto.fi/en/aalto-science-institute-asci/aalto-science-institute-international-summer-research-programme) | Aalto University | Finland |
