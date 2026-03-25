@@ -32,6 +32,7 @@ For a more extensive listing of math REUs, visit this [website](https://sites.go
 | __Program__ | __Institution__ | __Location__ |
 | :---: | :---: | :---: |
 | [FUSRP](https://www.fields.utoronto.ca/generalinfo/Fields-Undergraduate-Summer-Research-Program) | Fields Institute | Canada |
+| [FuSEP](https://fusep.ustc.edu.cn/fusep/) | University of Science and Technology of China | China
 | [HKU CDS](https://www.cs.hku.hk/rintern/) | University of Hong Kong | Hong Kong |
 | [IRIS @ NUS](https://cde.nus.edu.sg/graduate/iris-nus/) | National University of Singapore | Singapore |
 | [TEEP](https://teep.studyintaiwan.org/) | Varies | Taiwan |
